@@ -25,45 +25,4 @@ La metodología de aula invertida, es donde el estudiante estudia los contenidos
 
   
 
-📐 Fase 2 – Selección del Diseño Pedagógico
-
-Metodología seleccionada
-
-Escribe aquí cuál metodología utilizarás y por qué.
-
-🏗️ Fase 3 – Construcción del Plano Didáctico
-🧱 Tema de la clase
-
-Escribe el tema de la lección.
-
-🎯 Objetivo de aprendizaje
-
-Redacta qué se espera que aprendan los estudiantes.
-
-🧠 Metodología innovadora aplicada
-
-Explica cómo utilizarás la metodología seleccionada.
-
-📚 Actividades de aprendizaje
-Etapa	Actividad
-Inicio	
-Desarrollo	
-Cierre	
-💻 Herramienta tecnológica
-
-Indica la herramienta digital que utilizarás y explica cómo apoyará el aprendizaje.
-
-📊 Estrategia de evaluación
-
-Describe cómo evaluarás el aprendizaje de los estudiantes.
-
-🔎 Fase 4 – Reflexión del Arquitecto del Aprendizaje
-
-Responde brevemente:
-
-¿Cómo contribuye esta metodología al aprendizaje?
-
-¿Cómo fortalece la tecnología tu propuesta pedagógica?
-
-📎 Evidencia del diseño
 
