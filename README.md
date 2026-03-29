@@ -66,3 +66,4 @@ Responde brevemente:
 ¿Cómo fortalece la tecnología tu propuesta pedagógica?
 
 📎 Evidencia del diseño
+Conclusión
