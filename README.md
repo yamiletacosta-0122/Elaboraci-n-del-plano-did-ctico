@@ -23,7 +23,7 @@ La metodología de aula invertida, es donde el estudiante estudia los contenidos
 	•	Kahoot (evaluación interactiva)
 	•	Padlet (lluvia de ideas)
 
-  Utilizamos esta metodología, porque cambia la forma tradicional de aprender: el estudiante estudia contenidos básicos en casa y en clase se dedica a practicar, analizar y resolver dudas con el docente; es colocar al estudiante en el centro del aprendizaje, aprende mejor, con mayor participación y profundidad.
+  
 
 📐 Fase 2 – Selección del Diseño Pedagógico
 
